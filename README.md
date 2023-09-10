@@ -5,9 +5,9 @@ Full Stack web application.
 ## Tech Stack
 
 - Frontend
-  - NextJS with TypeScript
+  - _NextJS with TypeScript_
 - Backend
-  - Python
+  - _Python_
 
 ## Top Contributors
 
